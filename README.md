@@ -13,10 +13,10 @@ Recomendamos que você apenas olhe o gabarito depois de tentar fazer por você m
 
 O conjunto de dados é composto por clientes da empresa Ifood com dados sobre:
 
-●	Perfis de clientes
-●	Preferências do produto
-●	Sucessos/fracassos da campanha
-●	Desempenho do canal
+- Perfis de clientes
+- Preferências do produto
+- Sucessos/fracassos da campanha
+- Desempenho do canal
 
 Queremos agora saber se o fato de uma pessoa reclamar na plataforma a torna detratora (detrator aqui seria não comprar mais em nossa plataforma).
 
