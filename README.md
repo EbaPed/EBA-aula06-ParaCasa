@@ -1,11 +1,28 @@
-# EBA- Aula 06: Testes Não Paramétricos
+# EBA- Aula 06 (Para Casa): Testes Não Paramétricos
 
 Nesta aula vamos abordar os Testes Não Paramétricos que são utilizados quando não conseguimos garantir a normalidade na distribuição dos nossos dados.
 
 O que você encontrará neste repositório:
 
 - Na pasta `data`: os arquivos `csv's`ou `xlsx` utilizados em aula.
-- Na pasta `notebooks`: o gabarito do código trabalhado em aula.
+- Na pasta `notebooks`: o gabarito do desafio.
+Recomendamos que você apenas olhe o gabarito depois de tentar fazer por você mesmo. Desta forma você irá desenvolver muito mais suas habilidades analíticas.
+
+---
+## INSTRUÇÕES PARA RESOLUÇÃO DO DESAFIO IFOOD (Continuação):
+
+O conjunto de dados é composto por clientes da empresa Ifood com dados sobre:
+
+●	Perfis de clientes
+●	Preferências do produto
+●	Sucessos/fracassos da campanha
+●	Desempenho do canal
+
+Queremos agora saber se o fato de uma pessoa reclamar na plataforma a torna detratora (detrator aqui seria não comprar mais em nossa plataforma).
+
+Tomando como base a coluna `Complain`, veja que o grupo de pessoas que reclamam tem menos gastos (expense) do que pessoas que não reclamam.
+
+Use um teste paramétrico e um não paramétrico. Discuta as diferenças
 
 ---
 
@@ -22,8 +39,8 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA-aula06-TesteNaoParametrico.git
-cd EBA-aula06-TesteNaoParametrico
+git clone https://github.com/EbaPed/EBA-aula06-ParaCasa.git
+cd EBA-aula06-ParaCasa
 ```
 
 2. **Configurar a versão do Python com Pyenv**
